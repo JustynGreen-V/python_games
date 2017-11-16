@@ -1,5 +1,5 @@
-## On behalf of Sophie and Justyn
-# Python_Games
+# On behalf of Sophie and Justyn
+## Python_Games
 Python Games for Testing
 
 Source code for a popular game on GAMEE.
